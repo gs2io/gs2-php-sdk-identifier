@@ -5,9 +5,6 @@
 	"require" : {
 		"gs2/gs2-php-sdk-core" : ">= 0.1.0"
 	},
-	"config": {
-        "secure-http": false
-	},
 	"autoload" : {
 		"psr-4" : {
 			"GS2\\Identifier\\" : "src"
